@@ -1,0 +1,28 @@
+body{
+    font-family: 'Trebuchet MS',sans-serif;
+}
+
+h1,h2,.back-button,.source{
+    text-align: center;
+}
+
+h1{
+    background-color: coral;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.back-button,
+.source{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#ingredients,#steps,li{
+    color: rgba(19, 71, 54, 0.576);
+}
