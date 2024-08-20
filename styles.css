@@ -17,6 +17,24 @@ h2{
 
 li,.description{
     font-size: 18px;
+    list-style-position: inside;
+    text-align: center;
+}
+
+.recipes-list{
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.recipe{
+    list-style-type: none;
+    background-color:rgb(250, 153, 118);
+    display: inline-block;
+    width: 100px;
+    height: 25px;
+    border: 1px solid black;
+    padding: 24px;
 }
 
 img{
