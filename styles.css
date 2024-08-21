@@ -26,6 +26,13 @@ li,.description{
     text-align: center;
 }
 
+.ingredients-list{
+    text-align: center;
+    display: block;
+    padding: 0;
+    margin: 0 auto;
+}
+
 .recipes-list li{
     list-style-type: none;
     background-color:rgb(250, 153, 118);
